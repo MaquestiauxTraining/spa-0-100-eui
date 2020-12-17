@@ -7,6 +7,6 @@ nav:
   - Technologies: technologies.md
   - Building the application: building.md
 theme:
-  name: readthedocs
+  name: mkdocs
   highlightjs: true
   navigation_depth: 4
