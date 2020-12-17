@@ -6,4 +6,4 @@ nav:
   - Purpose: purpose.md
   - Technologies: technologies.md
   - Building the application: building.md
-them: readthedocs
+theme: readthedocs
