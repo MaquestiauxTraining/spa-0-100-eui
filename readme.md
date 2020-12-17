@@ -1,13 +1,9 @@
 **Create an SPA from 0 to 100 in nn steps**
-===========================================
 
 **Using eUI, Symony and Api-Platform**
---------------------------------------
 
 **Table of Content**
 
-- [**Create an SPA from 0 to 100 in nn steps**](#create-an-spa-from-0-to-100-in-nn-steps)
-  - [**Using eUI, Symony and Api-Platform**](#using-eui-symony-and-api-platform)
 - [Purpose](#purpose)
 - [Remarks](#remarks)
 - [Technologies](#technologies)
@@ -197,7 +193,6 @@ composer req ecphp/eu-login-bundle
 ```
 
 You  can add other package such:
-
 ```bash
 composer req --dev doctrine/doctrine-fixtures-bundle
 composer req --dev symfony/web-profiler-bundle
