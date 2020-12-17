@@ -1,9 +1,13 @@
 **Create an SPA from 0 to 100 in nn steps**
+===========================================
 
 **Using eUI, Symony and Api-Platform**
+--------------------------------------
 
 **Table of Content**
 
+- [**Create an SPA from 0 to 100 in nn steps**](#create-an-spa-from-0-to-100-in-nn-steps)
+  - [**Using eUI, Symony and Api-Platform**](#using-eui-symony-and-api-platform)
 - [Purpose](#purpose)
 - [Remarks](#remarks)
 - [Technologies](#technologies)
