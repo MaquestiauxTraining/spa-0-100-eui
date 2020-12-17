@@ -80,6 +80,8 @@ You need to open a command line. As being under windows, launch a PowerShell ter
 
 We are creating a folder where we will create the SPA. We will execute the eUI CLI from that folder.
 
+## Create the folder structure
+
 ```bash
 cd <your-root-dev-folder>
 mkdir myApp
@@ -89,7 +91,15 @@ eui-cli
 
 ![folder-created](images/doc-window-powershell-folder-created.png)
 
-The eUI CLI is an interactive systematci tool.
+## Launch the eUI CLI
+
+```bash
+cd <your-root-dev-folder>
+cd myApp
+eui-cli
+```
+
+The eUI CLI is an interactive systematic tool.
 
 It will let you choose your installation flavour.
 
@@ -108,6 +118,8 @@ And just accept the dependencies installation
 From there, the eUI CLIT will creates the folders: one for the front (client) and one for the backoffice (server).
 
 ***Under windows, the eUI CLI script will fail when trying to execute a post clone script which is written in bash script (init.sh)***
+
+## Under Windows issue
 
 ![eui-cli-windows-install-failure-bash](images/eui-cli-install-window-failure.png)
 
@@ -149,6 +161,8 @@ composer req maker --dev
 ```
 
 You can run manually the composer commands as in the last line of the [init.sh](server/init.sh)
+
+## Extra features to install
 
 You need also to add the following package for securing the back office using EU Login
 
