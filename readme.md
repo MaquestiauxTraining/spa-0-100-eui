@@ -3,6 +3,7 @@
 **Using eUI, Symony and Api-Platform**
 
 **Table of Content**
+
 - [Purpose](#purpose)
 - [Remarks](#remarks)
 - [Technologies](#technologies)
@@ -50,7 +51,9 @@ The version needed is the 10.x.
 
 For managing the NodeJS version, we recommend is usage. If will allow you to install multiple NodeJS version and switch between the different version.
 
-You can find NVM on [github](https://github.com/nvm-sh/nvm) . Several internet site explain how to install it over the different existing OS (Linux, OSX and Windows).
+You can find NVM on github: <https://github.com/nvm-sh/nvm>
+
+Several internet site explain how to install it over the different existing OS (Linux, OSX and Windows).
 
 Below some site explaining how to install:
 
@@ -64,7 +67,7 @@ nvm install 10.23.0
 
 ### NPM
 
-You will need also to have NPM for installing packages. Which is installed along with [NodeJs](https://www.npmjs.com/get-npm)
+You will need also to have NPM for installing packages. Which is installed along with NodeJs : <https://www.npmjs.com/get-npm>
 
 ### YARN
 
