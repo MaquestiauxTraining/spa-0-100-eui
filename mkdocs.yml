@@ -6,5 +6,7 @@ nav:
   - Purpose: purpose.md
   - Technologies: technologies.md
   - Building the application: building.md
-theme: mkdocs
+theme:
+  name: mkdocs
+  highlightjs: true
   navigation_depth: 4
