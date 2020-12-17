@@ -145,6 +145,8 @@ From there, the eUI CLIT will creates the folders: one for the front (client) an
 
 ***Under windows, the eUI CLI script will fail when trying to execute a post clone script which is written in bash script (init.sh)***
 
+the eUI CLI script will fail when trying to execute a post clone script of the backend (symfony) which is written in bash script (init.sh). Under windows, CMD or PowerShell script can be run natively.
+
 ![eui-cli-windows-install-failure-bash](docs/images/eui-cli-install-window-failure.png)
 
 The [init.sh](server/init.sh) is very simple.
