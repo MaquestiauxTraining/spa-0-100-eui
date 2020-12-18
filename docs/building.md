@@ -80,7 +80,7 @@ You will also need PHP installed: <https://www.php.net/manual/en/install.windows
 # Initialise the applications with eUI CLI
 
 You need to open a command line. As being under windows, launch a PowerShell terminal.
-![power-shell-terminal](docs/images/doc-window-powershell.png)
+![power-shell-terminal](images/doc-window-powershell.png)
 
 We are creating a folder where we will create the SPA. We will execute the eUI CLI from that folder.
 
