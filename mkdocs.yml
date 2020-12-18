@@ -8,6 +8,6 @@ nav:
   - Building the application:
       - Start: building.md
 theme:
-  name: mkdocs
+  name: readthedocs
   highlightjs: true
   navigation_depth: 4
