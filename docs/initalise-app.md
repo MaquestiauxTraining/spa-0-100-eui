@@ -6,7 +6,7 @@ You need to open a command line. As being under windows, launch a PowerShell ter
 
 We are creating a folder where we will create the SPA. We will execute the eUI CLI from that folder.
 
-## Create the folder structure
+# Create the folder structure
 
 ```bash
 cd <your-root-dev-folder>
@@ -17,7 +17,7 @@ eui-cli
 
 ![folder-created](images/doc-window-powershell-folder-created.png)
 
-## Launch the eUI CLI
+# Launch the eUI CLI
 
 ```bash
 cd <your-root-dev-folder>
@@ -45,7 +45,7 @@ From there, the eUI CLIT will creates the folders: one for the front (client) an
 
 ***Under windows, the eUI CLI script will fail when trying to execute a post clone script of the backend (symfony) which is written in bash script (init.sh)***
 
-## Under Windows issue
+# Under Windows issue
 
 the eUI CLI script will fail when trying to execute a post clone script of the backend (symfony) which is written in bash script (init.sh). Under windows, CMD or PowerShell script can be run natively.
 
@@ -90,7 +90,7 @@ composer req maker --dev
 
 You can run manually the composer commands as in the last line of the [init.sh](https://github.com/MaquestiauxTraining/spa-0-100-eui/blob/main/server/init.sh)
 
-## Extra features to install
+# Extra features to install
 
 You need also to add the following package for securing the back office using EU Login
 

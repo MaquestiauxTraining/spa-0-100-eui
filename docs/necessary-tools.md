@@ -5,7 +5,7 @@ Before going further, we need to insure that the developer environment is having
 
 ***You will have to check the installation approach based on your environment (OS, network)***
 
-## NodeJS
+# NodeJS
 
 The version needed is the 10.x.
 
@@ -25,15 +25,15 @@ Below some site explaining how to install:
 nvm install 10.23.0
 ```
 
-### A sub of NodeJus
+## A sub of NodeJus
 
 Just for test
 
-## NPM
+# NPM
 
 You will need also to have NPM for installing packages. Which is installed along with NodeJs : <https://www.npmjs.com/get-npm>
 
-## YARN
+# YARN
 
 Yarn is another package manager.
 
@@ -43,7 +43,7 @@ Yarn is another package manager.
 npm install -g yarn
 ```
 
-## eUI-CLI
+# eUI-CLI
 
 You install the eUI Cli using NPM (or Yarn). The package is located here:
 
@@ -53,22 +53,22 @@ You install the eUI Cli using NPM (or Yarn). The package is located here:
 npm install -g @eui/cli@latest
 ```
 
-## Symfony CLI
+# Symfony CLI
 
 You can install also the Symfony CLI. The installed is located: <https://symfony.com/download>
 
 The CLI is not mandatory but provide useful tools / shortcut to the command.
 
-## Composer
+# Composer
 
 You have to install Composer: <https://getcomposer.org/download/>
 
-## GIT
+# GIT
 
 You have to install GIT (which comes with Git-Bash): <https://git-scm.com/downloads>
 
 Eventually, you can install a GUI: <https://git-scm.com/downloads/guis>
 
-## PHP 7.X
+# PHP 7.X
 
 You will also need PHP installed: <https://www.php.net/manual/en/install.windows.php>
