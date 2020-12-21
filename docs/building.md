@@ -129,7 +129,7 @@ the eUI CLI script will fail when trying to execute a post clone script of the b
 
 ![eui-cli-windows-install-failure-bash](images/eui-cli-install-window-failure.png)
 
-The [init.sh](server/init.sh) is very simple.
+The [init.sh](../server/init.sh) is very simple.
 
 ```bash
 #!/bin/bash
