@@ -8,6 +8,8 @@ nav:
   - Building the application:
       - Start: building.md
       - Installing the necessary tools: necessary-tools.md
+      - Initialise the applications with eUI CLI: initalise-app.md
+
 theme:
   name: readthedocs
   highlightjs: true
