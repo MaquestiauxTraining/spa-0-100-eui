@@ -166,7 +166,7 @@ composer req api annotations
 composer req maker --dev
 ```
 
-You can run manually the composer commands as in the last line of the [init.sh](server/init.sh)
+You can run manually the composer commands as in the last line of the [init.sh](../server/init.sh)
 
 ## Extra features to install
 
