@@ -7,6 +7,7 @@ nav:
   - Technologies: technologies.md
   - Building the application:
       - Start: building.md
+      - Installing the necessary tools: necessary-tools.md
 theme:
   name: readthedocs
   highlightjs: true
