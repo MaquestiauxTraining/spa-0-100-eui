@@ -129,7 +129,7 @@ the eUI CLI script will fail when trying to execute a post clone script of the b
 
 ![eui-cli-windows-install-failure-bash](images/eui-cli-install-window-failure.png)
 
-The [init.sh](../server/init.sh) is very simple.
+The [init.sh](https://github.com/MaquestiauxTraining/spa-0-100-eui/blob/main/server/init.sh) is very simple.
 
 ```bash
 #!/bin/bash
@@ -166,7 +166,7 @@ composer req api annotations
 composer req maker --dev
 ```
 
-You can run manually the composer commands as in the last line of the [init.sh](../server/init.sh)
+You can run manually the composer commands as in the last line of the [init.sh](https://github.com/MaquestiauxTraining/spa-0-100-eui/blob/main/server/init.sh)
 
 ## Extra features to install
 
