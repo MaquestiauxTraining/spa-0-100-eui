@@ -5,7 +5,8 @@ Before going further, we need to insure that the developer environment is having
 
 ***You will have to check the installation approach based on your environment (OS, network)***
 
-# NodeJS
+NodeJS
+------
 
 The version needed is the 10.x.
 
