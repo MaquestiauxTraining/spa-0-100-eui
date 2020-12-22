@@ -17,3 +17,5 @@
     - [GIT](docs/Necessary-Tools.md#git)
     - [PHP 7.X](docs/Necessary-Tools.md#php-7x)
   - [Initialise the applications with eUI CLI](docs/Initialise-the-application.md)
+
+Doc: [https://spa-0-100-eui.readthedocs.io/](https://spa-0-100-eui.readthedocs.io/)
