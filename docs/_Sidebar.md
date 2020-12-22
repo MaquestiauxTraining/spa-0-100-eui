@@ -18,3 +18,4 @@ Table of Content
     - [Launch the eUI CLI](Initialise-the-application#Launch-the-eUI-CLI)
     - [Under Windows known issue](Initialise-the-application#Under-Windows-known-issue)
     - [Extra features to install](Initialise-the-application#Extra-features-to-install)
+    - [Retrieve the packages](Initialise-the-application.md#Retrieve-the-packages)
