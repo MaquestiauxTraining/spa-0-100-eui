@@ -2,6 +2,8 @@
 
 **Using eUI, Symony and Api-Platform**
 
+todo: Description
+
 **Table of Content**
 
 - [Purpose](docs/Purpose.md)
@@ -18,4 +20,4 @@
     - [PHP 7.X](docs/Necessary-Tools.md#php-7x)
   - [Initialise the applications with eUI CLI](docs/Initialise-the-application.md)
 
-Doc: [https://spa-0-100-eui.readthedocs.io/](https://spa-0-100-eui.readthedocs.io/)
+See it also on RTD [https://spa-0-100-eui.readthedocs.io/](https://spa-0-100-eui.readthedocs.io/)
