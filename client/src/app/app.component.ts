@@ -94,7 +94,7 @@ export class AppComponent implements OnInit, OnDestroy {
                     label: 'Module2', url: '/screen/module2'
                 }
             ),
-            
+
         ];
     }
 

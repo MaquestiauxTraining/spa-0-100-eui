@@ -116,11 +116,28 @@ For both, Front and Back, you have to retrieve the packages.
 
 For the Front, you have to go in the folder called client:
 
+
 ```bash
 cd <your-root-dev-folder>
 cd myApp
 cd client
 yarn install
+```
+
+After that command a post installation tslint is launched. A possible error can occurs
+
+```bash
+$ tslint --project ./src/tsconfig.app.json --fix
+'tslint' is not recognized as an internal or external command,
+operable program or batch file.
+error Command failed with exit code 1.
+info Visit https://yarnpkg.com/en/docs/cli/install for documentation about this command.
+```
+
+A way to solve this issue is to install with Yarn globally, the packages.
+
+```bash
+yarn global add tslint typescript
 ```
 
 For the Back, you have to go in the folder called app (sub folder of server) server:
