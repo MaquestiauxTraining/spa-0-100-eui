@@ -9,7 +9,7 @@ nav:
       - Start: 'Building-the-application.md'
       - Installing the necessary tools: 'Necessary-Tools.md'
       - Initalise the application: 'Initialise-the-application.md'
-  - Starting with the API: Starting-with-the-API.md''
+  - Starting with the API: 'Starting-with-the-API.md'
 
 theme:
   name: readthedocs
