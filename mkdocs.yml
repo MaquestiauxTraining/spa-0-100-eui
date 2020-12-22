@@ -2,13 +2,13 @@ site_name: Create an SPA
 site_description: Welcome to Create an SPA from 0 to 100 in nn steps
 site_author: Jean-Philippe Maquestiaux
 nav:
-  - Home: index.md
-  - Purpose: purpose.md
-  - Technologies: technologies.md
+  - Home: Home.md
+  - Purpose: Purpose.md
+  - Technologies: Technologies.md
   - Building the application:
-      - Start: building.md
-      - Installing the necessary tools: necessary-tools.md
-      - Initialise the applications with eUI CLI: initalise-app.md
+      - Start: Building-the-application.md
+      - Installing the necessary tools: Necessary-Tools.md
+      - Initialise the applications with eUI CLI: Initalise-the-application.md
 
 theme:
   name: readthedocs

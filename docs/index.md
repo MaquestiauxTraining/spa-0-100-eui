@@ -6,8 +6,8 @@ Using eUI, Symony and Api-Platform
 
 **Table of Content**
 
-- [Purpose](purpose)
-- [Technologies](technologies)
+- [Purpose](Purpose)
+- [Technologies](Technologies)
 - [Building the application](Building-the-application)
   - [Installing the necessary tools](Necessary-Tools)
     - [NodeJS](Necessary-Tools#nodejs)
