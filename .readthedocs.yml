@@ -6,7 +6,7 @@
 version: 1
 
 mkdocs:
-  configuration: docs/mkdocs.yml
+  configuration: mkdocs.yml
 
 formats:
   - pdf
