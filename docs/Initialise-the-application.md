@@ -1,4 +1,4 @@
-Initialise the applications with eUI CLI
+Initialise the application with eUI CLI
 ========================================
 
 You need to open a command line. As being under windows, launch a PowerShell terminal.
@@ -107,4 +107,28 @@ You  can add other package such:
 ```bash
 composer req --dev doctrine/doctrine-fixtures-bundle
 composer req --dev symfony/web-profiler-bundle
+```
+
+Retrieve the packages
+---------------------
+
+For both, Front and Back, you have to retrieve the packages.
+
+For the Front, you have to go in the folder called client:
+
+```bash
+cd <your-root-dev-folder>
+cd myApp
+cd client
+yarn install
+```
+
+For the Back, you have to go in the folder called app (sub folder of server) server:
+
+```bash
+cd <your-root-dev-folder>
+cd myApp
+cd server
+cd app
+composer install
 ```
