@@ -12,6 +12,6 @@ nav:
   - Starting with the API: 'Starting-with-the-API.md'
 
 theme:
-  name: material
+  name: gitbook
   highlightjs: true
   navigation_depth: 4
