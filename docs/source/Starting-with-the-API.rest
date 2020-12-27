@@ -1,4 +1,15 @@
 Starting with the API
 =====================
 
-TODO
+Configure the database access
+-----------------------------
+
+Configure the .env OR the /server/app/config/packages/doctrine.yaml
+
+Configure the API Platform
+--------------------------
+
+Update the configuration files
+
+- /server/app/config/packages/api_platform.yaml
+- /server/app/config/routes/api_platform.yaml
