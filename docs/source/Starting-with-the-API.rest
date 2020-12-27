@@ -4,7 +4,7 @@ Starting with the API
 Configure the database access
 -----------------------------
 
-Configure the .env OR the /server/app/config/packages/doctrine.yaml
+Configure the /server/app/.env OR the /server/app/config/packages/doctrine.yaml
 
 Configure the API Platform
 --------------------------
